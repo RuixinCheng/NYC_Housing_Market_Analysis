@@ -1,2 +1,2 @@
 # NYC_Housing_Market_Analysis
-General understanding of the New York City housing market in light of the pandemic
+Our project was designed to provide our company with a general understanding of the New York City housing market in light of the pandemic, such as rentals and sales in each area of New York City, as well as the rental and sales inventory in each area. In addition, based on our analysis of the sales and rental inventory in New York City, our company can gain insight into which areas or types are worth investing in to help our company become more profitable.	
